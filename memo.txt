@@ -1,0 +1,5 @@
+npm i -D @craco/craco
+npm install react-router-dom
+npm install react-icons --save
+npm i react-icons/fa
+npm i @syncfusion/ej2-react-popups
