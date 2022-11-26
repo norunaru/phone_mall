@@ -1,4 +1,6 @@
+import "./App.css";
 import React from "react";
+
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { useEffect, useState } from "react";
 import { FaBolt } from "react-icons/fa";
